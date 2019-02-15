@@ -6,3 +6,4 @@ Feature 2
 Kobus was weer hier!
 Kobus was weer 'n keer hier!
 Kobus was hier terwyl in Centurion
+KObus was hier voordat hy weer Kaap to gaan!
